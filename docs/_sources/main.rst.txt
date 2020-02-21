@@ -1,0 +1,5 @@
+Main
+====
+
+.. automodule:: deduplicator
+   :members:
