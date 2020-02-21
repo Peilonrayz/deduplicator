@@ -1,4 +1,4 @@
-Welcome to deduplicator's documentation!
+Welcome to Deduplicator's documentation!
 =======================================
 
 .. toctree::

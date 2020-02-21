@@ -1,4 +1,4 @@
-deduplicator
+Deduplicator
 ============
 
 .. image:: https://travis-ci.com/Peilonrayz/deduplicator.svg?branch=master
@@ -8,7 +8,7 @@ deduplicator
 About
 -----
 
-This is a skeleton project to have a standardized and concrete base for all projects.
+Remove duplicate files with ease.
 
 Installation
 ------------
@@ -37,4 +37,4 @@ To run all tests run ``nox``. No venv is needed; nox makes all of them for us.
 License
 -------
 
-deduplicator is available under the MIT license.
+Deduplicator is available under the MIT license.
